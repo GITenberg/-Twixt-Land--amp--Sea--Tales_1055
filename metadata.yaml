@@ -1,0 +1,37 @@
+_repo: -Twixt-Land--amp--Sea--Tales_1055
+_version: 0.0.1
+alternative_title: '''Twixt Land and Sea: Tales'
+covers:
+- cover_type: archival
+  image_path: 1055/1055-h/images/covers.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Jozef Konrad Teodor
+    - Korzeniowski, Józef Konrad Teodor
+    - Korzeniowski, Joseph Conrad Theodore
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
+description: ''
+gutenberg_issued: '1997-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1055'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ship captains -- Fiction'
+- !lcsh 'Indian Ocean -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: A smile of fortune — The secret sharer — Freya of the Seven Isles.
+title: '''Twixt Land & Sea: Tales'
+url: http://www.gutenberg.org/ebooks/1055
