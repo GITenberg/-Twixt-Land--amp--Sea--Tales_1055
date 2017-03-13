@@ -1,11 +1,9 @@
 _repo: -Twixt-Land--amp--Sea--Tales_1055
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: '''Twixt Land and Sea: Tales'
 covers:
 - cover_type: archival
-  image_path: 1055/1055-h/images/covers.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 1055-h/images/coverb.jpg
 creator:
   author:
     agent_name: Conrad, Joseph
@@ -19,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/125
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1055#-Twixt-Land--amp--Sea--Tales
 gutenberg_issued: '1997-09-01'
 gutenberg_type: Text
 identifiers:
